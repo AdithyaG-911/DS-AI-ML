@@ -1,0 +1,11 @@
+order_id,order_amount,customer_name,items_count
+1001,250.0,TechCorp,5.0
+1002,150.0,BioHealth,2.0
+1003,450.0,NanoSystems,10.0
+,300.0,TechCorp,
+1005,200.0,SoftLink,3.0
+1001,250.0,TechCorp,5.0
+1006,5000.0,BigData,50.0
+1007,180.0,BioHealth,2.0
+,210.0,SoftLink,4.0
+1008,150.0,CloudNet,2.0
